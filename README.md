@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ali Hamza Tanveer</h1>
+<h3 align="center">Turning Ideas into Scalable Web Apps 🚀 | SSE 💼 | MEAN | MERN | PYTHON | PHP</h3>
 
 <!--
 **alihamzatanveer565/alihamzatanveer565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
