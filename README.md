@@ -62,7 +62,7 @@
 #### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,netlify,sentry,figma,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,netlify,sentry,figma,vscode,postman,linux" />
   </a>
 </p>
 
