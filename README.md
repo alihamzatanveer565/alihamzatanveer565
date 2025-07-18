@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alihamzatanveer565&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   <a href="https://github.com/alihamzatanveer565">
-    <img src="https://img.shields.io/github/followers/alihamzatanveer565?label=Follow&style=flat&logo=github&logoColor=white" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/alihamzatanveer565?label=Follow&style=flat&logo=github&logoColor=white&cache-bust=1" alt="GitHub followers"/>
   </a>
 </p>
 
