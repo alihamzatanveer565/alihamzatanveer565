@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🚀 About Me 
-- 👨‍💻 I’m currently working as a **Full Stack Software Engineer** at **OptimaGeeks**.
+- 👨‍💻 I’m currently working as a **Full Stack Software Engineer**.
 - 💬 Ask me about **JavaScript**, **TypeScript**, **Angular**, **React**, **Node Js**, **Express Js**, **PHP**, **Laravel**, and **Yii2**.
 - 📫 Feel free to reach me at [alihamzatanveertech@gmail.com](mailto:alihamzatanveertech@gmail.com).
 - 📚 Learning **n8n** and exploring new tools in automation.
