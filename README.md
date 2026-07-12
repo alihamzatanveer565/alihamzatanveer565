@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
+<h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">Turning Ideas into Scalable Web Apps 🚀 | SSE 💼 | MEAN | MERN | PYTHON | PHP</h3>
 
 <p align="center">
